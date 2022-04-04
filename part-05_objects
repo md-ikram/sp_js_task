@@ -61,8 +61,7 @@ let user={
 
 user.logBlogs();
 console.log(this);
-Sadia
-Sadia Akter Sinthia
+
 //math object
 
 console.log(Math);
